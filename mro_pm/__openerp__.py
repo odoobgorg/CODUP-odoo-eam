@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    Copyright (C) 2013-2015 CodUP (<http://codup.com>).
+#    Copyright (C) 2013-2016 CodUP (<http://codup.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -42,9 +42,8 @@ Required modules:
     """,
     'author': 'CodUP',
     'website': 'http://codup.com',
-    'category': 'Enterprise Asset Management',
+    'category': 'Industries',
     'sequence': 0,
-    'images': ['images/meter_interval.png','images/pm_rule.png','images/asset_meters.png','images/update_meters.png','images/meter_ratio.png'],
     'depends': ['mro'],
     'demo': ['mro_pm_demo.xml'],
     'data': [

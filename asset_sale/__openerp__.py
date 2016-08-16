@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    Copyright (C) 2014-2015 CodUP (<http://codup.com>).
+#    Copyright (C) 2014-2016 CodUP (<http://codup.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -32,8 +32,7 @@ Keep one entity in one place for escape mistakes!
     """,
     'author': 'CodUP',
     'website': 'http://codup.com',
-    'images': ['static/description/icon.png'],
-    'category': 'Enterprise Asset Management',
+    'category': 'Industries',
     'sequence': 0,
     'depends': ['sale','asset'],
     'demo': ['asset_demo.xml'],
